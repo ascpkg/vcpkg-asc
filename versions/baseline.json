@@ -1,0 +1,8 @@
+{
+    "default": {
+        "libmpv-0-39-0-0": {
+            "baseline": "0.39.0",
+            "port-version": 0
+        }
+    }
+}
